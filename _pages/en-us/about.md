@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: `Hello There`,
 
 profile:
   align: right
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-`Hello There`, I'm Salih and I consider myself as a person who believes and attaches importance to the game-changing power of data, data analytics, and data-driven solutions, Data Management Assistant Specialist at Sade Yazılım.
+I'm Salih and I consider myself as a person who believes and attaches importance to the game-changing power of data, data analytics, and data-driven solutions, Data Management Assistant Specialist at Sade Yazılım.
