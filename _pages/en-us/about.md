@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-, I'm Salih, a Data Management Assistant Specialist at Sade Yazılım. I am passionate about the game-changing power of data, data analytics, and data-driven solutions.
+I'm Salih, a Data Management Assistant Specialist at Sade Yazılım. I am passionate about the game-changing power of data, data analytics, and data-driven solutions.
