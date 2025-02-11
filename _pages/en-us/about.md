@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: `Hello There`,
+subtitle: "Hello There",
 
 profile:
   align: right
