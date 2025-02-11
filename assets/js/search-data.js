@@ -513,6 +513,20 @@ ninja.data = [{
           window.open("https://github.com/Salih2000", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/salih-abdullah-kilic", "_blank");
+        },
+      },{
+        id: 'social-medium',
+        title: 'Medium',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://medium.com/@salihabdullahkilic", "_blank");
+        },
+      },{
         id: 'social-stackoverflow',
         title: 'Stackoverflow',
         section: 'Socials',
